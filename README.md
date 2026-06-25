@@ -31,16 +31,16 @@ An end-to-end Power BI dashboard analyzing customer behavior and sales performan
 ## Screenshots
 
 ### Sales Overview
-![Sales Overview](screenshots/page1_sales_overview.png)
+![Sales Overview](page1_sales_overview.png)
 
 ### Customer Segmentation (RFM)
-![RFM Segmentation](screenshots/page2_rfm_segmentation.png)
+![RFM Segmentation](page2_rfm_segmentation.png)
 
 ### Geographic Analysis
-![Geographic Analysis](screenshots/page3_geographic.png)
+![Geographic Analysis](page3_delivery_performance.png)
 
 ### Product Performance
-![Product Performance](screenshots/page4_product_performance.png)
+![Product Performance](page4_product_analysis.png)
 
 ## Dataset
 [Olist Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
